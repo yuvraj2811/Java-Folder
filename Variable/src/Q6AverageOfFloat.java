@@ -1,3 +1,5 @@
+package src;
+
 public class Q6AverageOfFloat {
 
     public static void main(String[] args) {

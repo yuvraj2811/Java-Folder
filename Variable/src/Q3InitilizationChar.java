@@ -1,6 +1,8 @@
-public class Q4InitilizationDouble {
+package src;
+
+public class Q3InitilizationChar {
     public static void main(String[] args) {
-        double a=122.244;
+        char a='A';
         System.out.println(a);
     }
 }
