@@ -10,6 +10,7 @@ public class Pi {
     public static void main(String[] args) {
         Pi pi =new Pi();
 
+          // pi.pi=25;
         System.out.println("If your try to modify the final variable it give you this message");
         System.out.println("java: cannot assign a value to final variable pi");
 
