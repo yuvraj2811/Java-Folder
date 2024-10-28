@@ -76,6 +76,6 @@ class Main3{
         System.out.println("*------------------------------------------------------------------------------");
         Manager1 manager3 =new Manager1("Abhishek",25,50000,"Sales Department",3000);
         manager3.managerDetails1();
-        
+
     }
 }
